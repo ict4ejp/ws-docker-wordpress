@@ -1,0 +1,23 @@
+# Wordpress env
+
+## images
+
+- nginx
+- wordpress
+- mariadb
+
+## how to start
+
+docker-compose up -d
+
+
+## how to access
+
+http://localhost:8089/
+
+
+## how to stop
+
+docker-compose down
+
+
